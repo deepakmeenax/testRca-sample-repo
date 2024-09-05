@@ -11,6 +11,6 @@ function twoSum(nums, target) {
 }
 
 // Example usage:
-const nums = [2, 7, 11, 15]
-const target = 9
+const nums = [1, 3, 10, 14]
+const target = 3
 console.log(twoSum(nums, target)) // Output: [0, 1]
