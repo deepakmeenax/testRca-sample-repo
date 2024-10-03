@@ -16,3 +16,4 @@ function twoSum(nums, target) {
 const nums = [2, 7, 12341, 15]
 const target = 9
 console.log(twoSum(nums, target)) // Output: [0, 1]
+console.log('data')
