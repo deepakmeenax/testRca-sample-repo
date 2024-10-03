@@ -13,11 +13,13 @@ function twoSum(nums, target) {
 }
 
 // Example usage:
-const nums = [2, 7, 12341, 15]
+const nums = [2, 7, 12341, 1545]
 const target = 9
 
-console.log('new data')
 console.log('new data1')
 console.log('new data2')
 console.log('newdata34')
 console.log('newdat1223')
+const dta23 = 3444
+const dta2334 = 344434
+const dta2333 = 3444344
