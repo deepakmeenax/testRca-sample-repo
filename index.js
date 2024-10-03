@@ -1,6 +1,6 @@
 function twoSum(nums, target) {
   const map = new Map()
-  const data = 677
+  const data = 6767838947
   for (let i = 0; i < nums.length; i++) {
     const complement = target - nums[i]
     if (map.has(complement)) {
@@ -17,3 +17,7 @@ const nums = [2, 7, 12341, 15]
 const target = 9
 console.log(twoSum(nums, target)) // Output: [0, 1]
 console.log('data')
+
+console.log('new data')
+console.log('new data1')
+console.log('new data2')
